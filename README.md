@@ -4,5 +4,6 @@ Esta Reposição serve para armazenar todos os usuarios perminitos para consegui
 
 # TODO
 
-1. Retirar o ficheiro adminNames do /
-2. Meter o repositorio ```/DiasS3715/authorized_users/blob/main/p4hctf/root``` privado
+1. Retirar o ficheiro adminNames do ```/app/public```
+2. Retirar o ficheiro .env do ```/app```
+3. Meter o repositorio ```/DiasS3715/authorized_users/blob/main/p4hctf/root``` privado
